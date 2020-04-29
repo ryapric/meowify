@@ -15,3 +15,8 @@ Jesus, why
 So you can copy & paste tons of emojis into Slack or whatever, assuming you have the corresponding
 emojis available in your workspace. Annoy your friends & neighbors. Make messages harder to read,
 but oh so kawaii.
+
+"I don't even know what this is for, wtf is a 'meow emoji'?"
+------------------------------------------------------------
+
+Idk man, it works in my work's Slack account.
